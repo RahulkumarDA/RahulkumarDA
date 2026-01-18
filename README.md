@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3500&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Kumar;Operations+Analyst+%7C+Aspiring+Data+Analyst;Turning+Raw+Data+into+Business+Insights" />
 </p>
 
-<!-- Coding GIF -->
+<!-- Profile Views -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://komarev.com/ghpvc/?username=RahulkumarDA&color=2F80ED&style=for-the-badge" />
 </p>
 
 ---
@@ -38,6 +38,19 @@ I work with data to clean, analyze, and derive actionable insights, and I enjoy 
 
 ---
 
+## 📊 GitHub Activity & Data
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulkumarDA&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulkumarDA&theme=radical&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulkumarDA&layout=compact&theme=radical&hide_border=true" width="50%"/>
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 ### ☕ Coffee Sales Analytics Dashboard
@@ -63,15 +76,6 @@ I work with data to clean, analyze, and derive actionable insights, and I enjoy 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulkumarDA&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulkumarDA&theme=radical&hide_border=true" width="49%"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
@@ -82,8 +86,6 @@ I work with data to clean, analyze, and derive actionable insights, and I enjoy 
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Data → Insights → Impact</i>
