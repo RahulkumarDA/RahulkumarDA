@@ -1,52 +1,63 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3500&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Kumar;Operations+Analyst+%7C+Aspiring+Data+Analyst;Turning+Raw+Data+into+Business+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&color=0FB9B1&center=true&vCenter=true&width=700&lines=Rahul+Kumar;Operations+Analyst+%7C+Aspiring+Data+Analyst;Data+%E2%86%92+Insights+%E2%86%92+Impact" />
 </p>
 
-<!-- Profile Views -->
+<!-- User-Provided GIF -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahulkumarDA&color=2F80ED&style=for-the-badge" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="520" alt="Professional Data Visualization GIF"/>
 </p>
 
 ---
 
 ## 👨‍💼 About Me
 
-**Operations Analyst (3.5 years) | Aspiring Data/Business Analyst | Data Cleaning, Analysis, and Dashboarding**
+**Operations Analyst (3.5 years) | Aspiring Data/Business Analyst**
 
-I work with data to clean, analyze, and derive actionable insights, and I enjoy building dashboards that enable data-driven decision-making.
+I transform raw data into meaningful business insights through data cleaning, analysis, and visualization. I focus on building clear, actionable dashboards that support better decision-making.
 
-* 🎓 MBA in **Risk & Insurance Management**
-* 📊 Experience in operations, process improvement, and analytics
-* 🛠 Strong interest in **Python, SQL, Power BI, and Excel**
-* 📈 Passionate about dashboards, storytelling with data, and business insights
+* 📊 Background in Analytics, Business, Operations, Management and Process Improvement 
+* 🛠 Working with **Python, SQL, Power BI, and Excel**
 
 ---
 
-## 🛠 Tech Stack (Animated Badges)
+## 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-2F80ED?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Python-0FB9B1?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0FB9B1?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0FB9B1?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-0FB9B1?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-0FB9B1?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Data
+## 🌐 Find Me Online (Socials)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulkumarDA&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulkumarDA&theme=radical&hide_border=true" width="49%"/>
+<p>
+  <a href="https://www.linkedin.com/in/rahul-kumar-954073214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-0FB9B1?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/rrrahul1307">
+    <img src="https://img.shields.io/badge/HackerRank-rrrahul1307-0FB9B1?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/RahulKumarDA/">
+    <img src="https://img.shields.io/badge/LeetCode-RahulKumarDA-0FB9B1?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulkumarDA&layout=compact&theme=radical&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulkumarDA&show_icons=true&theme=transparent&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulkumarDA&theme=transparent&hide_border=true" width="49%"/>
 </p>
 
 ---
@@ -55,36 +66,29 @@ I work with data to clean, analyze, and derive actionable insights, and I enjoy 
 
 ### ☕ Coffee Sales Analytics Dashboard
 
-📌 **Tools:** Power BI, Power Query, Excel
-
-* Built an interactive dashboard with KPIs, slicers, and trend analysis
-* Analyzed sales performance, seasonality, and profitability
+Power BI | Power Query | Excel
+Built an interactive dashboard with KPIs, slicers, and trend analysis.
 
 ### 📈 Real-Time Revenue Dashboard
 
-📌 **Tools:** Power BI, DAX, Power Query
-
-* Designed organization-level revenue tracking dashboard
-* Created dynamic visuals including decomposition trees and KPI cards
+Power BI | DAX | Power Query
+Designed organization-level revenue tracking with dynamic visuals.
 
 ### 📦 Vendor & Freight Analysis
 
-📌 **Tools:** SQL + Python (Pandas)
-
-* Analyzed vendor performance and freight cost anomalies
-* Identified outliers and cost optimization opportunities
+SQL | Python (Pandas)
+Identified cost anomalies and vendor performance insights.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/rahul-kumar-954073214/">
-    <img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:rrrahul1307@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-rrrahul1307%40gmail.com-0FB9B1?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+
+  <img src="https://img.shields.io/badge/Phone-6205902203-0FB9B1?style=flat-square&logo=phone&logoColor=white" />
 </p>
 
 <p align="center">
