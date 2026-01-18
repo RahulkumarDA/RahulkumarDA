@@ -1,10 +1,11 @@
-```md
 <!-- Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3500&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Kumar;Operations+Analyst+%7C+Aspiring+Data+Analyst;Turning+Raw+Data+into+Business+Insights" />
 </p>
 
 <!-- Coding GIF -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
@@ -17,10 +18,10 @@
 
 I work with data to clean, analyze, and derive actionable insights, and I enjoy building dashboards that enable data-driven decision-making.
 
-- 🎓 MBA in **Risk & Insurance Management**  
-- 📊 Experience in operations, process improvement, and analytics  
-- 🛠 Strong interest in **Python, SQL, Power BI, and Excel**  
-- 📈 Passionate about dashboards, storytelling with data, and business insights  
+* 🎓 MBA in **Risk & Insurance Management**
+* 📊 Experience in operations, process improvement, and analytics
+* 🛠 Strong interest in **Python, SQL, Power BI, and Excel**
+* 📈 Passionate about dashboards, storytelling with data, and business insights
 
 ---
 
@@ -37,22 +38,28 @@ I work with data to clean, analyze, and derive actionable insights, and I enjoy 
 
 ---
 
-## 📂 Featured Projects (Portfolio Style)
+## 📂 Featured Projects
 
-### ☕ Coffee Sales Analytics Dashboard  
-📌 **Tools:** Power BI, Power Query, Excel  
-- Built an interactive dashboard with KPIs, slicers, and trend analysis  
-- Analyzed sales performance, seasonality, and profitability  
+### ☕ Coffee Sales Analytics Dashboard
 
-### 📈 Real-Time Revenue Dashboard  
-📌 **Tools:** Power BI, DAX, Power Query  
-- Designed organization-level revenue tracking dashboard  
-- Created dynamic visuals including decomposition trees and KPI cards  
+📌 **Tools:** Power BI, Power Query, Excel
 
-### 📦 Vendor & Freight Analysis  
-📌 **Tools:** SQL + Python (Pandas)  
-- Analyzed vendor performance and freight cost anomalies  
-- Identified outliers and cost optimization opportunities  
+* Built an interactive dashboard with KPIs, slicers, and trend analysis
+* Analyzed sales performance, seasonality, and profitability
+
+### 📈 Real-Time Revenue Dashboard
+
+📌 **Tools:** Power BI, DAX, Power Query
+
+* Designed organization-level revenue tracking dashboard
+* Created dynamic visuals including decomposition trees and KPI cards
+
+### 📦 Vendor & Freight Analysis
+
+📌 **Tools:** SQL + Python (Pandas)
+
+* Analyzed vendor performance and freight cost anomalies
+* Identified outliers and cost optimization opportunities
 
 ---
 
@@ -81,4 +88,3 @@ I work with data to clean, analyze, and derive actionable insights, and I enjoy 
 <p align="center">
   <i>Data → Insights → Impact</i>
 </p>
-```
