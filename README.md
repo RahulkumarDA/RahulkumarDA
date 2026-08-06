@@ -14,7 +14,7 @@
 
 ## 👨‍💼 About Me
 
-**Operations Analyst (3.5 years) | Aspiring Data/Business Analyst**
+**Business Analyst (4 years) | Aspiring Data/Business Analyst**
 
 I transform raw data into meaningful business insights through data cleaning, analysis, and visualization. I focus on building clear, actionable dashboards that support better decision-making.
 
